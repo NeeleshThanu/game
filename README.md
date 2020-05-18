@@ -1,2 +1,2 @@
-# game
+# NeeleshThanu.game
 game files
